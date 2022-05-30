@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumHW_Frame", "SeleniumHW_Frame.csproj", "{AC966375-12FC-4FB9-AF36-AFFEEF74A6F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Advance_Frame", "Advance_Frame.csproj", "{AC966375-12FC-4FB9-AF36-AFFEEF74A6F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpecFlowAdvanceProject", "..\SpecFlowAdvanceProject\SpecFlowAdvanceProject.csproj", "{B988AFA3-CFB7-470E-B77B-E4C0BC9821CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{AC966375-12FC-4FB9-AF36-AFFEEF74A6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC966375-12FC-4FB9-AF36-AFFEEF74A6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC966375-12FC-4FB9-AF36-AFFEEF74A6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B988AFA3-CFB7-470E-B77B-E4C0BC9821CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B988AFA3-CFB7-470E-B77B-E4C0BC9821CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B988AFA3-CFB7-470E-B77B-E4C0BC9821CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B988AFA3-CFB7-470E-B77B-E4C0BC9821CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
